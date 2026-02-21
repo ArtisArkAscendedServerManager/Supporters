@@ -1,6 +1,79 @@
 {
-  "VERSION": "1.0.1",
-  "BETA_TESTERS": [],
+  "VERSION": "0.9.1",
+  "BETA_TESTERS": [
+    {
+      "discord_username": "bobweirdick",
+      "display_name": ""
+    },
+    {
+      "discord_username": "stryyk3r",
+      "display_name": ""
+    },
+    {
+      "discord_username": "hyperz.",
+      "display_name": ""
+    },
+    {
+      "discord_username": "leobud",
+      "display_name": ""
+    },
+    {
+      "discord_username": "psq",
+      "display_name": ""
+    },
+    {
+      "discord_username": "luke867656",
+      "display_name": ""
+    },
+    {
+      "discord_username": "czshomer",
+      "display_name": ""
+    },
+    {
+      "discord_username": "pandaman12345777",
+      "display_name": ""
+    },
+    {
+      "discord_username": "shadow_arkfrance",
+      "display_name": ""
+    },
+    {
+      "discord_username": "notxana.",
+      "display_name": ""
+    },
+    {
+      "discord_username": "jakeyyy95",
+      "display_name": ""
+    },
+    {
+      "discord_username": "roaep",
+      "display_name": ""
+    },
+    {
+      "discord_username": "thomas.1509",
+      "display_name": ""
+    },
+    {
+      "discord_username": "grizzbearcub",
+      "display_name": ""
+    },
+    {
+      "discord_username": "gibson3s",
+      "display_name": ""
+    },
+    {
+      "discord_username": "ziluq",
+      "display_name": ""
+    },
+    {
+      "discord_username": "__nemo___",
+      "display_name": ""
+    },
+    {
+      "discord_username": "mr_dalo",
+      "display_name": ""
+    }
+  ],
   "DONATOR_SUPPORTERS": [
     {
       "from": "Psycha",
